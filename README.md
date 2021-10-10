@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="20210811_082543.jpg"width="200" height="200"/>
+  <img border-radius: 15px src="SAVE_20210913_231202.jpg"width="200" height="200"/>
   <p align="center">
     
     
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">NALVAR</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/NALVAR) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chun/NALVAR) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">NALVAR</a> to 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/NALVAR
+$ git clone https://github.com/nalvar12/NALVAR
 $ cd NALVAR
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,7 +41,7 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/NALVAR
+$ git clone https://github.com/nalvar12/NALVAR
 $ cd NALVAR
 $ npm i
 $ node NALVAR.js
@@ -50,10 +50,10 @@ $ node NALVAR.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Chunkindepadayali/NALVAR">
+  <a href="https://github.com/nalvar12/NALVAR">
     
-<a href="https:https://github.com/Chunkindepadayali?tab=followers">
-<img src="https://img.shields.io/github/repo-size/Chunkindepadayali/NALVAR?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https:https://github.com/nalvar12?tab=followers">
+<img src="https://img.shields.io/github/repo-size/nalvar/NALVAR?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Chunkindepadayali/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Chunkindepadayali?color=blue&style=flat-square"></a>
@@ -89,7 +89,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-[![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+[![Chunkindepadayali](https://github.com/SAVE_20210913_231202.jpg?size=100)](https://github.com/Chunkindepadayali) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----|----
 [Chunkindepadayali](https://github.com/Chunkindepadayali) | [farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Modifiying as public | Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
